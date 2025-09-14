@@ -1,0 +1,5 @@
+{
+  "name": "SNFC School Management System",
+  "description": "A comprehensive School Management System for Saleem Nawaz Fazaia College, PAF Base Masroor, Karachi. It includes role-based dashboards for administrators, clerks, teachers, students, and parents to manage academic, financial, and communication aspects of the school.",
+  "requestFramePermissions": []
+}
